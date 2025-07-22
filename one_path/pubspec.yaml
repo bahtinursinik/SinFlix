@@ -1,0 +1,65 @@
+name: one_path
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+    sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_bloc: ^9.1.1
+  image_picker: ^1.1.2
+  flutter_secure_storage: ^9.2.4
+  http: ^1.4.0
+  equatable: ^2.0.7
+  mime: ^2.0.0
+  http_parser: ^4.1.2
+  image: ^4.5.4
+  path_provider: ^2.1.5
+  intl: ^0.19.0
+  google_fonts: ^6.2.1
+  cupertino_icons: ^1.0.8
+  lottie: ^3.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.4
+  intl_utils: ^2.8.11
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/SinFlixLogo.png"
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/images/SinFlixLogo.png
+    - assets/images/SinFlixSplash.png
+    - assets/images/premium.png
+    - assets/images/match.png
+    - assets/images/highlight.png
+    - assets/images/like.png
+    - assets/images/heart.png
+    - assets/images/apple.png
+    - assets/images/facebook.png
+    - assets/images/google.png
+    - assets/images/message.png
+    - assets/images/unlock.png
+    - assets/images/hide.png
+    - assets/images/plus.png
+    - assets/images/home.png
+    - assets/images/diamond.png
+    - assets/images/profile.png
+    - assets/images/user.png
+    - assets/animations/success.json
+    - assets/animations/like.json
