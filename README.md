@@ -110,7 +110,7 @@
   <img width="1290" height="2796" alt="Image" src="https://github.com/user-attachments/assets/48711e48-37ce-451c-8838-46d641ee83fb" />
 
 ### 📦 Kurulum
-git clone https://github.com/kullanici-adi/sinflix.git
-cd sinflix
+git clone https://github.com/bahtinursinik/SinFlix.git
+cd SinFlix
 flutter pub get
 flutter run
